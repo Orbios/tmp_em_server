@@ -1,0 +1,7 @@
+build
+local
+node_modules
+.idea/
+shrinkwrap.yaml
+src/test.ts
+package-lock.json
